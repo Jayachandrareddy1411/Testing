@@ -14,7 +14,7 @@ struct*
 void printlist(struct*head);
 
 int main()
-{
+{asa
 	struct*head = createAnode(1);
 	head -> next = createAnode(2);
 	head -> next -> next = createAnode(4);
